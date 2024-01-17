@@ -1,4 +1,4 @@
-Code of Paper L2Net: Infrared and Visible Image Fusion Using Lightweight Large Kernel Convolution Network (TIM.2023.3328710), which can be found at https://ieeexplore.ieee.org/document/10301581
+Code of Paper L2Net: Infrared and Visible Image Fusion Using Lightweight Large Kernel Convolution Network, which can be found at https://ieeexplore.ieee.org/document/10301581
 
 
 
